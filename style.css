@@ -1,0 +1,25 @@
+body {
+  background: url('numbers.jpg') no-repeat 50% 50%;
+  background-size: 100%;
+  height: 600px;
+}
+
+.container {
+  
+  text-align: center;
+  margin-top: 15rem;
+}
+
+h1 {
+  color: rgb(9, 114, 206);
+}
+
+p {
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(9, 114, 206);
+}
+
+.message {
+  font-size: 40px;
+}
